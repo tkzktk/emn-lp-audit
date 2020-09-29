@@ -1,10 +1,10 @@
-### Manual Audit of EMN LPs
+# Manual Audit of EMN LPs
 
 This was performed by manually downloading the CSV's of the LP token holders of each pool, removing any transactions after the block snapshot, then checking each remaining address for a LP token balance as of block 10,954,410. 
 
 Block Snapshot: 10,954,410
 
-#### Uniswap: 
+## Uniswap: 
 
 **EMN-ETH:** `0x61d8c3d7ad3c3c00c9e4b8da089e19e57da90b91`
 
@@ -70,7 +70,8 @@ No LPs as of 10,954,410
 
 No LPs as of 10,954,410
 
-#### Balancer: 
+## Balancer: 
+
 **EMN-DAI [50/50]:** `0x641c5e9b5c6f5372959ace58efee4665670b4d0a`
 
 Total BAL: 0.01
