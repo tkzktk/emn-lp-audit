@@ -1,6 +1,6 @@
 # Manual Audit of EMN LPs
 
-This audit was performed by manually, reviewing exported CSV's from Etherscan of LP token holders of each pool trading EMN, then removing any transactions after the block snapshot and checking each remaining address for a LP token balance as of block 10,954,410. Once complete, the total combined balance of all LP token holders addresses was compared with the LP tokens total supply balance as of the snapshot block. Underlying asset balances from the pool were then also recorded from the time of the snapshot block. 
+This audit was performed manually by reviewing exported CSV's from Etherscan of LP token holders of each pool trading EMN, then removing any transactions after the block snapshot and checking each remaining address for a LP token balance as of block 10,954,410. Once complete, the total combined balance of all LP token holders addresses was compared with the LP tokens total supply balance as of the snapshot block. Underlying asset balances from the pool were then also recorded from the time of the snapshot block. 
 
 Block Snapshot: 10,954,410
 
